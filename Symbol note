@@ -1,0 +1,7 @@
+讀取特殊符號要用 InputStreamReader
+InputStreamReader read = new InputStreamReader(new FileInputStream(filePath), "UTF-8");
+BufferedReader bufferedReader = new BufferedReader(read);
+
+不能用 FileReader
+FileReader fr = new FileReader(filePath);
+BufferedReader bfr = new BufferedReader(fr);
