@@ -1,0 +1,18 @@
+
+Full Bright dot	 Random	N ≦ 2
+Full Bright dot	 2 dots adjacent	N ≦ 0
+Full Bright dot	3 dots adjacent	N ≦ 0
+Full Dark dot	 Random	N ≦ 3
+Full Dark dot	 2 dots adjacent	N ≦ 0
+Full Dark dot	3 dots adjacent	N ≦ 0
+Total bright and dark dot	N ≦ 4
+Distance	Minimum distance between full bright / full dark dots	≧5mm
+Touch Panel Malfunction	Not allowable
+Display failure (V-line/H-line/Cross line etc.)	Not allowable
+
+
+
+Touch Panel Circular Defect	(Spot、Pitting、Dent、Bubble ..etc.)	D≦0.25mm，Ignore	0.25mm＜D≦0.5mm，N≦3，Distance≧5mm	It is shown in Fig. 2.
+Touch Panel Line Defect	(Scratches、Abrasions ..etc.)	W≦0.05 mm，Ignore	0.05＜W≦0.1 mm，L≦3.0 mm，N≦3	It is shown in Fig. 3.
+BM Printing Pinhole	Follow spec. of Circular Defect.	If RoHS-Qualified oil pen can fix it, ignore
+BM Printing Sawtooth & Lack/Overflow	L≦0.1 mm，Ignore	0.1mm＜L≦0.15 mm, W≦1mm，Distance >5mm, N≦2 	It is shown in Fig.6 & Fig.7
